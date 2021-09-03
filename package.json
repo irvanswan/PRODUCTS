@@ -1,0 +1,20 @@
+{
+  "name": "products",
+  "version": "1.0.0",
+  "description": "backend simple with programing principle",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "newrelic": "^8.1.0",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "irvan junaidi",
+  "license": "ISC"
+}
